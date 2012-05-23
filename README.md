@@ -1,4 +1,4 @@
-Impact MP
+Impact Multiplayer Plugin
 ===
 
 A multiplayer plugin and example [Socket.IO](http://socket.io/ "Socket.IO: the cross-browser WebSocket for realtime apps.") server for the [Impact](http://impactjs.com/ "Impact - HTML5 Canvas &amp; JavaScript Game Engine") library.
