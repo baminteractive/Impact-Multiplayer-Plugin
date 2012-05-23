@@ -5,6 +5,8 @@ A multiplayer plugin and example [Socket.IO](http://socket.io/ "Socket.IO: the c
 
 This plugin uses the "dumb" server approach and does not run Impact itself on the server. It simply provides a means to pass data back and forth between clients using [Socket.IO's](http://socket.io/ "Socket.IO: the cross-browser WebSocket for realtime apps.") "rooms" feature.
 
+Check out an example of this plugin in action at [www.boredtodeath.ie](http://www.boredtodeath.ie "Bored to Death").
+
 Requirements
 ---
 
